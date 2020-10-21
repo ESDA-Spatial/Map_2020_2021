@@ -1,0 +1,28 @@
+name: ESDA-Spatial
+
+channels:
+    - r
+    - conda-forge
+
+dependencies:
+    - jupyterlab
+    - nbclient
+    - r-base
+    - r-essentials
+    - r-sf
+    - r-sp
+    - r-stars
+    - r-raster
+    - r-spatstat
+    - r-geojsonio
+    - r-leaflet
+    - r-gsubfn
+    - r-zeallot
+    - r-tmap
+    - r-rgdal
+    - r-kernsmooth
+    - r-leafem
+    - pip
+    
+    - pip:
+        - sphinx-thebe
