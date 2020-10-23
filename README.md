@@ -14,4 +14,4 @@ As a reminder, the raster and vector layer should be located in the same folder 
 R
 The data is located under the folder data\R.
 
-The python notebook file is located under the analysis folder with the name . We have been experimenting some issues with the script so it is higlhy recommended that you copy and paste the code lines into your R environment and recreate the map.
+The python notebook file is located under the analysis folder with the name Interactive Mapping.ipynb. We have been experiencing some issues with the script so it is highly recommended that you copy and paste the code lines into your R environment and recreate the map.
